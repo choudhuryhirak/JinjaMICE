@@ -1,10 +1,10 @@
-/* 
-========================================= 
-========================================= 
+/*
+=========================================
+=========================================
 
-Startup Template By Bootstrapious.com 
+Startup Template By Bootstrapious.com
 
-========================================= 
+=========================================
 ========================================= */
 /* variant 1 - violet */
 /*
@@ -415,13 +415,13 @@ SIDEBAR + RIGHT COLUMN
           margin-top: 0px;
             margin-bottom: -20%;
         }
-    
+
     #cta
     {
         text-align: center;
         padding: 2%;
     }
-    
+
 }
 
 
@@ -1315,7 +1315,7 @@ STYLE SWITCHER FOR DEMO
 .nav-pills > li > a:hover
 {
     background-color: #424242;
-    
+
 }
 
 .nav-pills > li.active > a,
@@ -1640,12 +1640,12 @@ body {
 }
 a {
   color: #827717;
-  text-decoration: none;
+  
 }
 a:hover,
 a:focus {
   color: #d8b46a;
-  text-decoration: underline;
+
 }
 a:focus {
   outline: thin dotted;
@@ -1830,22 +1830,22 @@ fieldset[disabled] .btn-transparent.active {
 .label {
   font-family: "Ubuntu", sans-serif;
   font-weight: normal;
-  
+
 }
 /* forms.less */
 label {
   font-weight: normal;
   color: #555555;
   font-size: 14px;
-  
+
   letter-spacing: 0.1em;
-    
+
 }
 
 .list-group > label
 {
     padding-left: 1%;
-    
+
 }
 
 
@@ -1853,7 +1853,7 @@ label {
 {
     text-decoration: underline;
     color: #242424;
-    
+
 }
 
 

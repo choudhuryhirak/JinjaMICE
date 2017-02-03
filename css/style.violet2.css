@@ -199,12 +199,7 @@ a i.fa,
 button i.fa {
   margin: 0 5px;
 }
-a {
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: none;
-}
+
 .clickable {
   cursor: pointer !important;
 }
@@ -1615,13 +1610,12 @@ body {
 }
 a {
   color: #d8b46a;
-  text-decoration: none;
+
 }
 a:hover,
 a:focus {
   color: #555555;
-  border-bottom: solid 1px #000;
-  text-decoration: none;
+  
 }
 a:focus {
   outline: thin dotted;

@@ -2,7 +2,7 @@
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover
 {
-    
+
     background-color: #202020;
 }
 
@@ -11,7 +11,7 @@
 html,body.home
 {
     font-family: 'Source Sans Pro', sans-serif;
-    
+
 }
 
 
@@ -19,24 +19,25 @@ p.super-paragraph, #bloglead
 {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 100;
-    
+
 }
 
 p.lead
 {
     font-family: 'Ubuntu', sans-serif;
-    
+
 }
 
 a
 {
 color: #616161;
-text-decoration: none;
+
 }
 
 a:hover
 {
 color: #d8b46a;
+text-decoration: none !important;
 
 }
 
@@ -45,7 +46,7 @@ color: #d8b46a;
     margin-left: 5%;
     margin-right: 5%;
 }
- 
+
 
 body.home
 {
@@ -58,6 +59,7 @@ body.home
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
 }
 
 body.landing
@@ -82,12 +84,12 @@ body.landing
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    height: 100%;   
-    
-    
-    
-    
-    
+    height: 100%;
+
+
+
+
+
 }
 
 
@@ -96,8 +98,8 @@ body.landing
 #textlink
 {
     color: #616161;
-    
-    
+
+
 }
 
 
@@ -163,28 +165,28 @@ body.landing
 }
 
 #lrbutton
-{   
-    
+{
+
     border-radius: 5px;
     color: white;
     background-color: #d8b46a;
-    
-    
+
+
 }
 
 #lrbutton:hover
-{   
-    
+{
+
     border-radius: 5px;
     color: white;
     background-color: #cbab65;
-    
-    
+
+
 }
 
 
 #lsbutton
-{   
+{
     border: solid 1px #d8b46a;
     border-radius: 5px;
     color: white;
@@ -192,7 +194,7 @@ body.landing
 }
 
 #lsbutton:hover
-{   
+{
     border: solid 1px #242424;
     border-radius: 5px;
     color: white;
@@ -209,13 +211,12 @@ body.landing
 
 @media(max-width:450px)
 {
-    
+
     .footer1, .footer2, .footer3
     {
         padding: 10%;
-        
-    }
-    
-    
-}
 
+    }
+
+
+}
